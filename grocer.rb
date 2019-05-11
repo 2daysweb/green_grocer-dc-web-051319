@@ -15,7 +15,7 @@ def consolidate_cart(cart)
 end
 
 def apply_coupons(cart, coupons)
-  h_coup_invert = {}
+=begin  h_coup_invert = {}
   hash_cart = {} 
   hash_coup = {}
   hash_cart_coup = {}
@@ -45,7 +45,7 @@ else
   return cart 
 end 
 end
-
+=end 
 
 
 def apply_clearance(cart)
