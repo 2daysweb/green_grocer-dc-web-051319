@@ -44,8 +44,8 @@ return hash_cart_coup
 else 
   return cart 
 end 
-end
 =end 
+end 
 
 
 def apply_clearance(cart)
