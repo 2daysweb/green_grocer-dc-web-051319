@@ -28,7 +28,7 @@ if cart[name] && cart[name][:count] >= coupon[:num]
 end
 end
 end
-cart
+
 
 =begin  h_coup_invert = {}
   hash_cart = {} 
