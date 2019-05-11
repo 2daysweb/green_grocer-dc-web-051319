@@ -59,7 +59,7 @@ else
   return cart 
 end 
 =end 
-end 
+
 
 
 def apply_clearance(cart)
